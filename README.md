@@ -34,6 +34,11 @@
 - 轻量模式可以把“内容消费”和“粉丝任务”拆开，让不同参与强度的用户都能获得价值。
 - 相比重做完整社区，增加可切换的轻量体验成本更可控，也更容易验证用户需求。
 
+### 2.4 竞品对标与差异化
+
+[微博超话轻量追星模式-竞品分析.pdf](https://github.com/user-attachments/files/32232670/-.pdf)
+
+
 ## 3. 目标用户与场景
 
 ### 3.1 目标用户
@@ -224,15 +229,13 @@ flowchart TD
     N -- 是 --> E
     N -- 否 --> O[切回完整超话或取消订阅]
 ```
-原型图预览
 
+### 7.1 原型图模块
 
-
-<img width="456" height="996" alt="16af1d957cc025d8c7356c2434c45050" src="https://github.com/user-attachments/assets/a2ae792c-2553-4623-9aa3-04c78db83193" />
-<img width="462" height="1005" alt="4affd135f4e8da69265881bc843f67e6" src="https://github.com/user-attachments/assets/2a478c7f-912d-4ded-be58-2a3374c6ae00" />
-<img width="456" height="993" alt="d9a4d77824f185f3e1d58662de4b42e7" src="https://github.com/user-attachments/assets/b8585d00-4dd1-48b7-9262-13e106a757ef" />
-<img width="456" height="999" alt="a988a0ddf1e2f24783cfcdc6d3aef3d4" src="https://github.com/user-attachments/assets/1903d824-3cb7-48df-9740-1633e4dc039b" />
-
+<img width="456" height="996" alt="16af1d957cc025d8c7356c2434c45050" src="https://github.com/user-attachments/assets/91b913e7-e930-4d74-ae21-989175261f91" />
+<img width="462" height="1005" alt="4affd135f4e8da69265881bc843f67e6" src="https://github.com/user-attachments/assets/59199142-2a6e-46c7-8801-9a429cebec00" />
+<img width="456" height="993" alt="d9a4d77824f185f3e1d58662de4b42e7" src="https://github.com/user-attachments/assets/44e6f4f2-09e8-43a0-95c5-1f877c4d3f7a" />
+<img width="456" height="999" alt="a988a0ddf1e2f24783cfcdc6d3aef3d4" src="https://github.com/user-attachments/assets/0ee8f050-1a95-4764-89f7-388e7d04a7ad" />
 
 
 ## 8. 内容与排序策略（替代模型与参数策略）
