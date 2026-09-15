@@ -225,6 +225,9 @@ flowchart TD
     N -- 否 --> O[切回完整超话或取消订阅]
 ```
 原型图预览
+
+
+
 <img width="456" height="996" alt="16af1d957cc025d8c7356c2434c45050" src="https://github.com/user-attachments/assets/a2ae792c-2553-4623-9aa3-04c78db83193" />
 <img width="462" height="1005" alt="4affd135f4e8da69265881bc843f67e6" src="https://github.com/user-attachments/assets/2a478c7f-912d-4ded-be58-2a3374c6ae00" />
 <img width="456" height="993" alt="d9a4d77824f185f3e1d58662de4b42e7" src="https://github.com/user-attachments/assets/b8585d00-4dd1-48b7-9262-13e106a757ef" />
